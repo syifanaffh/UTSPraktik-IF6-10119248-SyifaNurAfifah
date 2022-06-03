@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10119248-SyifaNurAfifah</string>
+
+    <string name="judul">Form Pengisian Data</string>
+    <string name="info"><b>Info</b></string>
+    <string name="desc_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="jenis_tes"><b>Jenis Tes</b></string>
+    <string name="jenis_tes1">Rapid Antigen</string>
+    <string name="jenis_tes2">PCR</string>
+    <string name="tgl_terkonfirmasi"><b>Tanggal Terkonfirmasi</b></string>
+    <string name="input_tgl">Pilih Tanggal</string>
+    <string name="nik"><b>NIK</b></string>
+    <string name="input_nik">Masukkan NIK</string>
+    <string name="nama"><b>Nama</b></string>
+    <string name="input_nama">Masukkan Nama</string>
+    <string name="ttl"><b>Tanggal Lahir</b></string>
+    <string name="input_ttl">Pilih Tanggal</string>
+    <string name="gender"><b>Jenis Kelamin</b></string>
+    <string name="laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="relation"><b>Hubungan Dengan Anda</b></string>
+    <string name="relasi1">Orangtua</string>
+    <string name="relasi2">Suami/Istri</string>
+    <string name="relasi3">Anak</string>
+    <string name="relasi4">Kerabat Lainnya</string>
+    <string name="required"><b>• Harus Diisi</b></string>
+    <string name="setuju">Dengan ini saya menyetujui bahwa data yang saya isikan adalah benar</string>
+    <string name="btn_next"><b>Selanjutnya</b></string>
+    <string name="cek_data"><b>Cek Kembali Isian Data</b></string>
+    <string name="btn_save"><b>Cek Hasil Test</b></string>
+    <string name="btn_edit"><b>Ubah</b></string>
+    <string name="title_success"><b>Berhasil Mendapat Akses</b></string>
+    <string name="desc_success">Silahkan tap tombol di bawah untuk memulai mengisi form Lapor Kesehatan Harian.</string>
+    <string name="btn_ok"><b>OK</b></string>
+</resources>
